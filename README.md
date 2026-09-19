@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/Lucknow%2C%20India-302b63?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-22d3ee?style=flat-square&labelColor=302b63" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=itskunalkanaujiya&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views"/>
 
 </div>
 
