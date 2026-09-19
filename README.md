@@ -7,7 +7,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0f0c29,50:302b63,100:24243e&text=Kunal%20Kanaujiya&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20LLM%20%26%20RAG%20Builder%20%E2%80%A2%20Cloud-Native%20Observability&descSize=18&descColor=a78bfa&descAlignY=58&animation=twinkling" width="100%" alt="Kunal Kanaujiya"/>
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/itskunalkanaujiya/itskunalkanaujiya/main/kunal official.jpeg&w=160&h=160&fit=cover&mask=circle" width="140" alt="Kunal Kanaujiya"/>
+<br/><br/>
+ 
+ alt="Kunal Kanaujiya"/>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=40&lines=Building+grounded%2C+production-ready+LLM+applications;Making+machine+learning+explainable+and+measurable;Shipping+observability+on+AWS+and+Azure+Kubernetes;B.Tech+CSE+%28AI%29+%E2%80%A2+CGPA+9.46" alt="Typing animation"/>
