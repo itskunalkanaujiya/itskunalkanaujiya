@@ -46,16 +46,6 @@ solving:    500+ DSA problems across LeetCode and GeeksforGeeks
 principle:  "If it can't be measured, it isn't finished."
 ```
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Recall%405-93.3%25-8B5CF6?style=for-the-badge&labelColor=1E1B4B" alt="Recall@5 93.3%"/>
-<img src="https://img.shields.io/badge/Fraud%20Recall-98.7%25-6366F1?style=for-the-badge&labelColor=1E1B4B" alt="Fraud recall 98.7%"/>
-<img src="https://img.shields.io/badge/Repeat%20Queries-60%25%20Faster-22D3EE?style=for-the-badge&labelColor=1E1B4B" alt="60% faster"/>
-<img src="https://img.shields.io/badge/CGPA-9.46-A78BFA?style=for-the-badge&labelColor=1E1B4B" alt="CGPA 9.46"/>
-
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:6366f1,100:a78bfa" width="100%" alt=""/>
 
@@ -115,59 +105,7 @@ principle:  "If it can't be measured, it isn't finished."
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:a78bfa,50:6366f1,100:22d3ee" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=Featured+Projects&repeat=false" alt="Featured Projects"/>
-</div>
 
-<h3 align="center">YT-Insight</h3>
-<p align="center"><sub><b>CONVERSATIONAL RAG FOR YOUTUBE</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Recall%405-83.3%25%20%E2%86%92%2093.3%25-8B5CF6?style=for-the-badge&labelColor=1E1B4B" alt="Recall@5"/>
-  <img src="https://img.shields.io/badge/Repeat%20Videos-60%25%20Faster-22D3EE?style=for-the-badge&labelColor=1E1B4B" alt="60% faster"/>
-</p>
-
-<p align="center">
-Chat with any long-form video and get grounded answers with <b>timestamp-based source citations</b>.<br/>
-<sub><code>Transcript API</code> → <code>Recursive Chunking</code> → <code>MiniLM-L6-v2</code> → <code>FAISS</code> → <code>Cross-Encoder Rerank</code> → <code>Qwen 72B</code> → <code>Streamlit</code></sub>
-</p>
-
-- **History-aware query rewriting** and relevance-threshold filtering keep answers on-topic across long conversations
-- **Cross-encoder reranking** lifted Recall@5 from 83.3% to 93.3%
-- **Video-ID based caching** of transcripts and FAISS indexes cut repeat-video latency by 60%
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YT-Insight"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View YT-Insight"/></a>
-</p>
-
-<br/>
-
-<h3 align="center">FraudShield</h3>
-<p align="center"><sub><b>EXPLAINABLE FINANCIAL FRAUD DETECTION</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Recall-98.7%25-8B5CF6?style=for-the-badge&labelColor=1E1B4B" alt="Recall 98.7%"/>
-  <img src="https://img.shields.io/badge/Precision-91.4%25-6366F1?style=for-the-badge&labelColor=1E1B4B" alt="Precision 91.4%"/>
-  <img src="https://img.shields.io/badge/F1-94.9%25-22D3EE?style=for-the-badge&labelColor=1E1B4B" alt="F1 94.9%"/>
-  <img src="https://img.shields.io/badge/PR--AUC-0.89-A78BFA?style=for-the-badge&labelColor=1E1B4B" alt="PR-AUC 0.89"/>
-</p>
-
-<p align="center">
-Flags fraud across <b>6.36M+ PaySim transactions</b> and explains <i>why</i> each one was flagged.<br/>
-<sub><code>Preprocessing</code> → <code>SMOTE</code> → <code>LogReg / RF / XGBoost</code> → <code>Stratified k-fold</code> → <code>SHAP</code> → <code>Streamlit</code></sub>
-</p>
-
-- **Class imbalance** handled with SMOTE, with models benchmarked through stratified k-fold cross-validation and tuning
-- **SHAP** gives transaction-level explanations for every prediction
-- **Streamlit app** returns real-time fraud probabilities and risk classifications
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/FraudShield"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View FraudShield"/></a>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:6366f1,100:a78bfa" width="100%" alt=""/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=Experience&repeat=false" alt="Experience"/>
