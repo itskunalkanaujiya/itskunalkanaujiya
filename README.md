@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/itskunalkanaujiya/itskunalkanaujiya/main/kunal official.jpeg&w=160&h=160&fit=cover&mask=circle" width="140" alt="Kunal Kanaujiya"/>
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/itskunalkanaujiya/itskunalkanaujiya/main/kunalofficial.jpeg&w=160&h=160&fit=cover&mask=circle" width="140" alt="Kunal Kanaujiya"/>
 <br/><br/>
  
  alt="Kunal Kanaujiya"/>
