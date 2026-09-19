@@ -156,35 +156,6 @@ Hack-O-Fiesta, IIIT Lucknow (Apr 2024) &nbsp;·&nbsp; Smart India Hackathon (Sep
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:6366f1,100:a78bfa" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=GitHub+Analytics&repeat=false" alt="GitHub Analytics"/>
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&border_radius=12" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&border_radius=12" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0f0c29&color=a78bfa&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true&radius=12" alt="Contribution graph" width="96%"/>
-
-</div>
-
-<!-- OPTIONAL: Contribution snake animation.
-     Set it up first using the snake.yml workflow (see instructions), then uncomment:
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-</picture>
-</div>
--->
-
-<br/>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=Let%27s+Connect&repeat=false" alt="Let's Connect"/>
 
