@@ -21,11 +21,11 @@
 <a href="https://www.geeksforgeeks.org/profile/kunalkanaujiya"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 <a href="https://leetcode.com/u/7754024423/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Lucknow%2C%20India-302b63?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-22d3ee?style=flat-square&labelColor=302b63" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=itskunalkanaujiya&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views"/>
+
 
 </div>
 
