@@ -9,10 +9,8 @@
 
 <img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/itskunalkanaujiya/itskunalkanaujiya/main/kunalofficial.jpeg&w=160&h=160&fit=cover&mask=circle" width="140" alt="Kunal Kanaujiya"/>
 <br/><br/>
- 
- alt="Kunal Kanaujiya"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/itskunalkanaujiya">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=40&lines=Building+grounded%2C+production-ready+LLM+applications;Making+machine+learning+explainable+and+measurable;Shipping+observability+on+AWS+and+Azure+Kubernetes;B.Tech+CSE+%28AI%29+%E2%80%A2+CGPA+9.46" alt="Typing animation"/>
 </a>
 
