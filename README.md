@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0f0c29,50:302b63,100:24243e&text=Kunal%20Kanaujiya&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=LLM%20Applications%20%C2%B7%20Machine%20Learning%20%C2%B7%20Cloud-Native%20Observability&descSize=17&descColor=22d3ee&descAlignY=58&animation=fadeIn" width="100%" alt="Kunal Kanaujiya banner"/>
 
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/itskunalkanaujiya/itskunalkanaujiya/main/kunalofficial.jpeg&w=160&h=160&fit=cover&mask=circle" width="140" alt="Kunal Kanaujiya"/>
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/itskunalkanaujiya/itskunalkanaujiya/main/[kunalofficial](https://github.com/itskunalkanaujiya/itskunalkanaujiya/blob/main/Screenshot%202026-09-21%20142454.png&w=160&h=160&fit=cover&mask=circle" width="140" alt="Kunal Kanaujiya"/>
 
 <a href="https://github.com/itskunalkanaujiya">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Building+grounded%2C+production-ready+LLM+applications;Making+machine+learning+explainable+and+measurable;Shipping+observability+on+AWS+and+Azure+Kubernetes;B.Tech+CSE+%28AI%29+%E2%80%A2+CGPA+9.46" alt="Typing animation"/>
