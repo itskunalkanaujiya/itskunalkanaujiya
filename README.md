@@ -319,8 +319,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itskunalkanaujiya&show_icons=true&count_private=true&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&bg_color=0F0C29&border_color=302B63&border_radius=12" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskunalkanaujiya&layout=compact&langs_count=6&title_color=A78BFA&text_color=CBD5E1&bg_color=0F0C29&border_color=302B63&border_radius=12" height="165" alt="Top languages"/>
+
 
 <img src="https://streak-stats.demolab.com?user=itskunalkanaujiya&background=0F0C29&border=302B63&ring=22D3EE&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=22D3EE&sideNums=FFFFFF&sideLabels=CBD5E1&dates=94A3B8&stroke=302B63&border_radius=12" alt="GitHub streak"/>
 
